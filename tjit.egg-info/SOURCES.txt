@@ -1,0 +1,11 @@
+setup.py
+tjit/base.py
+tjit/cli.py
+tjit/data.py
+tjit/diff.py
+tjit/remote.py
+tjit.egg-info/PKG-INFO
+tjit.egg-info/SOURCES.txt
+tjit.egg-info/dependency_links.txt
+tjit.egg-info/entry_points.txt
+tjit.egg-info/top_level.txt
